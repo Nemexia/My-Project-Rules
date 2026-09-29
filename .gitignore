@@ -1,1 +1,7 @@
+# IDEs
 .idea
+.vscode
+.vs
+
+# Build output
+out
